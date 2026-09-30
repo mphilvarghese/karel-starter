@@ -1,0 +1,45 @@
+int a = 2, b =4, c = 6;
+
+c >= 6 && a >3;
+//result should be false
+
+a 1= b && c != 3;
+//result should be false;
+
+a >= -1
+
+!(a>2)
+//Sinc a > 2 is false, and we are are finding the negative of a false statement,
+the answer should be true;
+
+!a > 2;
+//Lead to syntax error since does not make sense
+
+int x = 1, y =2, z = x > y? 10 : 5 (represents conditional)
+//Therefore, since task was false,
+
+if(x>y)
+{
+    w = 10;
+}
+else
+{
+    w = 5;
+}
+
+z == 5;
+//Result will be true.
+
+//////
+
+name1 = "MARY"
+name4 = "MARK"
+
+name1.compareTo(name4);
+//result would be -14;
+
+System.out.print("I worked %d hours. backslah n, hours")
+//responsible for formatting text properly in a program
+
+e.g.
+System.out.printf("I have %d dogs and %d cats backslash n", cats, cats)
