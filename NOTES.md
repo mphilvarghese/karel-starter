@@ -1,0 +1,8 @@
+- Wrote program allowing Karel Robot to navigate world with different arrangement of buttons and movement sequences
+- Movement sequences determined by specific programming language used by Karel program.
+- Agent wrote extended version of existing code
+- Code for first extended agent version made robot go to end of row and loop again 
+- However, Copilot agent repeated the same code when creating extensions of MyKarel and MyKarel 2
+- Addressed challenges of Copilot agent repeating code by creating simplified version of extended version of MyKarel1
+- New code is not a repetition of MyKarel2 extensions and is more complex than the original MyKarel file.
+- Otherwise, agent code worked so, besides previous change, I did not do any changes to the code 
